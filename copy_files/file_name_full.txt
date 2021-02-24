@@ -1,0 +1,6 @@
+planilha_A.xls,2014\\02
+Arquivo_B.7z,2017\\02
+Print_C.png,2017\\04
+Views.pdf,2019\\09
+Report.docx,2019\\10
+Apresentação.ppt,2020\\03
